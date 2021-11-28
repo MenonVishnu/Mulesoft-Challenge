@@ -4,6 +4,7 @@ import java.sql.SQLException;
 import java.sql.Statement;  
 import java.sql.ResultSet; 
 
+
 public class Connect {  
 	//connecting to database
 	public static void connect() {  
